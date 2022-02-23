@@ -20,6 +20,8 @@ SRCS			=	ft_putstr_fd.c \
 					ft_strlen.c \
 					ft_strncmp.c \
 					ft_itoa.c \
+					ft_arraylen.c \
+					ft_print_array.c \
 
 GNL_SRCS		=	get_next_line/get_next_line.c \
 					get_next_line/get_next_line_utils.c \

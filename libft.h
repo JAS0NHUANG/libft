@@ -6,7 +6,7 @@
 /*   By: jahuang <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/18 13:59:08 by jahuang           #+#    #+#             */
-/*   Updated: 2021/11/12 12:14:27 by jahuang          ###   ########.fr       */
+/*   Updated: 2022/02/23 14:49:42 by jahuang          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,6 +40,8 @@ char				*ft_itoa_base(int nbr, char *base);
 size_t				ft_strlen(const char *s);
 int					ft_strncmp(const char *s1, const char *s2, size_t n);
 char				*ft_itoa(int n);
+int					ft_arraylen(char **str_array);
+void				ft_print_array(char **str_array);
 
 /*
 char				**ft_split(const char *s, char c);
