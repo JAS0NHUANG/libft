@@ -16,12 +16,16 @@ LIBFT_A			=	libft.a
 SRCS			=	ft_putstr_fd.c \
 					ft_putnbr_fd.c \
 					ft_putchar_fd.c \
+					ft_atoi.c \
 					ft_itoa_base.c \
 					ft_strlen.c \
+					ft_strcmp.c \
 					ft_strncmp.c \
 					ft_itoa.c \
 					ft_arraylen.c \
 					ft_print_array.c \
+					ft_split.c \
+					ft_substr.c \
 
 GNL_SRCS		=	get_next_line/get_next_line.c \
 					get_next_line/get_next_line_utils.c \
