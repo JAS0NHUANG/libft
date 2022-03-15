@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar_fd.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jahuang <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: jahuang <jahuang@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/03 08:43:44 by jahuang           #+#    #+#             */
 /*   Updated: 2021/12/03 08:43:45 by jahuang          ###   ########.fr       */
