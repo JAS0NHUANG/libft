@@ -6,7 +6,7 @@
 /*   By: jahuang <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/18 13:59:08 by jahuang           #+#    #+#             */
-/*   Updated: 2022/03/03 15:43:43 by jahuang          ###   ########.fr       */
+/*   Updated: 2022/04/05 13:04:28 by jahuang          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,9 +49,6 @@ int					ft_strncmp(const char *s1, const char *s2, size_t n);
 int					ft_strcmp(const char *s1, const char *s2);
 void				ft_free_strarray(char **str_array);
 char				*ft_strdup(const char *s);
-void	*ft_memcpy(void *dst, const void *src, size_t n);
-/*
-char				*ft_strjoin(char const *s1, char const *s2);
-*/
+void				*ft_memcpy(void *dst, const void *src, size_t n);
 
 #endif
